@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1017547613863",
+    "project_id": "my-social-coin-27e2b",
+    "storage_bucket": "my-social-coin-27e2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017547613863:android:461d51cf6705e659591d82",
+        "android_client_info": {
+          "package_name": "com.generalchangsocialcoin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017547613863-6hgbqgdoo87nq0m212khn01c235gm9kd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.generalchangsocialcoin",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1017547613863-0mat0ooc3mramuadt9l5samag14ja7sd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxZqI9NVFx6JSdTT2RnN6yoob6B1Leir0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017547613863-0mat0ooc3mramuadt9l5samag14ja7sd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

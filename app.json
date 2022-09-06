@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "generalChang-social-coin",
+    "slug": "generalChang-social-coin",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "generalChang-social-coin"
+}
